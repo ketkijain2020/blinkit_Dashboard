@@ -37,7 +37,7 @@ Performance Optimization: Achieved a 5% increase in report efficiency.
 
 The dashboard seamlessly collects and utilizes data from primary sources:
 
-Excel/CSV Files: Targets, Market Share data, and related information are sourced from [Excel/CSV files]().
+Excel/CSV Files: Targets, Market Share data, and related information are sourced from [Excel/CSV files](https://github.com/ketkijain2020/blinkit_Dashboard/blob/main/BlinkIT/BlinkIT%20Grocery%20Data.xlsx).
 
 # Prerequisites
 [Power BI Desktop](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop)
