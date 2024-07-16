@@ -17,7 +17,7 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
  4. Average Rating: The average customer rating for items sold.
 
 # Live Dashboard
- Explore the live dashboard here.
+ Explore the live dashboard [here](https://app.powerbi.com/groups/me/reports/bac3ccfc-2d19-4656-bf88-d71566611acf/af4f40c0c09151b5147b?experience=power-bi).
 
 # Key Achievements
 Customization: Tailored for blinkit sales specific needs.
@@ -37,7 +37,7 @@ Performance Optimization: Achieved a 5% increase in report efficiency.
 
 The dashboard seamlessly collects and utilizes data from primary sources:
 
-Excel/CSV Files: Targets, Market Share data, and related information are sourced from Excel/CSV files.
+Excel/CSV Files: Targets, Market Share data, and related information are sourced from [Excel/CSV files]().
 
 # Prerequisites
 [Power BI Desktop](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop)
